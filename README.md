@@ -20,13 +20,13 @@ Install this project using [Rye](https://rye.astral.sh/guide/installation/) pyth
 Clone the project
 
 ```bash
-git clone https://link-to-project
+git clone https://github.com/abisatyaw/tello-face-follow.git
 ```
 
 Go to the project directory
 
 ```bash
-cd my-project
+cd tello-face-follow
 ```
 
 Install dependencies :
